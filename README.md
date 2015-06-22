@@ -1,5 +1,6 @@
 **site-ffpi**
-This is in experimental stadium.
+
+This is the experimental branch.
 
 Do not use for production environment.
 
